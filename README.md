@@ -1,29 +1,19 @@
-# example-app-vue-js
+# Vue Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+<img src="/README/vuejs_icon.jpg" alt="Vue" width="100">
+<img src="/README/bootstrap_icon.webp" alt="Bootstrap" width="100">
 
-## Recommended IDE Setup
+Простое приложение на **Vue.js 3** с использованием **Composition API** и **Bootstrap**, созданное для демонстрации основных концепций Vue.js: компонентов, реактивности, маршрутизации и обработки форм. Проект включает главную страницу, страницу "О нас" и функционал для управления списком задач.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Цель
+Проект разработан для обучения и демонстрации использования Vue.js 3 с Composition API в сочетании с Bootstrap для создания адаптивного интерфейса.
 
-## Customize configuration
+## Функциональность
+- Навигация между страницами с помощью Vue Router.
+- Добавление и удаление задач с использованием реактивности.
+- Стилизация с помощью Bootstrap (навигационная панель, формы, списки).
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Установка
+1. `npm install`
+2. `npm install bootstrap`
+3. `npm run dev`
