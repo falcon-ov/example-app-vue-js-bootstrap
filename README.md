@@ -1,7 +1,6 @@
 # Vue Todo App
 
-<img src="/README/vuejs_icon.jpg" alt="Vue" width="100">
-<img src="/README/bootstrap_icon.webp" alt="Bootstrap" width="100">
+<img src="/README/vuejs_icon.jpg" alt="Vue" width="300"> <img src="/README/bootstrap_icon.webp" alt="Bootstrap" width="335">
 
 Простое приложение на **Vue.js 3** с использованием **Composition API** и **Bootstrap**, созданное для демонстрации основных концепций Vue.js: компонентов, реактивности, маршрутизации и обработки форм. Проект включает главную страницу, страницу "О нас" и функционал для управления списком задач.
 
